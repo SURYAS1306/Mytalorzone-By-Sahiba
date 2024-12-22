@@ -1,0 +1,18 @@
+Please add the following images to this directory:
+
+1. hero-bg.jpg - A high-quality image of a fashion model or clothing display
+2. traditional.jpg - Image showcasing traditional Indian clothing
+3. western.jpg - Image showcasing western fashion
+4. trendy.jpg - Image showcasing trendy/fusion wear
+5. product1.jpg to product8.jpg - Individual product images
+
+You can source these images from:
+1. Your own product photography
+2. Stock photo websites (with proper licensing)
+3. Professional fashion photography
+
+Image Guidelines:
+- Resolution: At least 1200x800 pixels
+- Format: JPG or WEBP
+- Size: Optimize for web (< 500KB per image)
+- Style: Clean background, well-lit, professional quality
